@@ -19,19 +19,19 @@ Deep-stereo: Learning to predict new views from the world's imagery. [[pdf](http
 
 Learning semantic deformation flows with 3d convolutional networks. [[pdf](http://geometry.cs.ucl.ac.uk/projects/2016/semantic_learning/paper_docs/DefFlow3D.pdf)] [[web](http://geometry.cs.ucl.ac.uk/projects/2016/semantic_learning/)]
 
-Perceptual losses for real-time style transfer and super-resolution. 
+Perceptual losses for real-time style transfer and super-resolution. [[pdf](https://arxiv.org/abs/1603.08155)] [[code](https://github.com/jcjohnson/fast-neural-style)] [[web](https://github.com/jcjohnson)]
 
-Autoencoding beyond pixels using a learned similarity metric.
+Autoencoding beyond pixels using a learned similarity metric. [[pdf](https://arxiv.org/pdf/1512.09300.pdf)] [[code](https://github.com/andersbll/autoencoding_beyond_pixels)] [[web](https://github.com/andersbll)]
 
-Textural networks: Feed-forward synthesis of textures and stylized images.
+Texture networks: Feed-forward synthesis of textures and stylized images. [[pdf](https://arxiv.org/pdf/1603.03417.pdf)] [[code](https://github.com/DmitryUlyanov/texture_nets)] [[web](https://github.com/DmitryUlyanov)]
 
-Discriminative redularization for generative models.
+Discriminative redularization for generative models. [[pdf](https://arxiv.org/abs/1602.03220)] [[code](https://github.com/vdumoulin/discgen)] [[web](https://github.com/vdumoulin)]
 
-Unsupervised representation learning with deep convolutional generative adversarial networks.
+Unsupervised representation learning with deep convolutional generative adversarial networks. [[pdf](https://arxiv.org/pdf/1511.06434v2)] [[code](https://github.com/Newmu/dcgan_code)] [[web](https://github.com/Newmu)]
 
-Context encoders: Feature learning by inpainting deepak.
+Context encoders: Feature learning by inpainting deepak. [[pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)] [[code](https://github.com/pathak22/context-encoder)] [[web](https://github.com/pathak22)]
 
-Generating images part by part with composite generative adversarial networks.
+Generating images part by part with composite generative adversarial networks. [[pdf](https://www.arxiv.org/abs/1607.05387)] [[code](https://github.com/Hanock/generating_images_part_by_part)] [[web](https://github.com/Hanock)]
 
 #### 2015
 Multi-view stereo: A tutorial. [Geometry-based method]
