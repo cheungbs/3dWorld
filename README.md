@@ -33,20 +33,22 @@ Context encoders: Feature learning by inpainting deepak. [[pdf](http://www.cv-fo
 
 Generating images part by part with composite generative adversarial networks. [[pdf](https://www.arxiv.org/abs/1607.05387)] [[code](https://github.com/Hanock/generating_images_part_by_part)] [[web](https://github.com/Hanock)]
 
+Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision. [[pdf](https://papers.nips.cc/paper/6206-perspective-transformer-nets-learning-single-view-3d-object-reconstruction-without-3d-supervision.pdf)] [[code](https://github.com/xcyan/nips16_PTN)] [[web](https://github.com/xcyan)]
+
 #### 2015
 Multi-view stereo: A tutorial. [Geometry-based method]
 
-Learning to generate chairs with convolutional neural networks.
+Learning to generate chairs with convolutional neural networks. [[pdf](https://128.84.21.199/abs/1411.5928v2)] [[code](https://github.com/dosovits/caffe-fr-chairs)] [[web](http://lmb.informatik.uni-freiburg.de/people/dosovits/)]
 
-Weakly-supervised disentangling with recurrent transformations for 3d view synthesis.
+Weakly-supervised disentangling with recurrent transformations for 3d view synthesis. [[pdf](https://papers.nips.cc/paper/5639-weakly-supervised-disentangling-with-recurrent-transformations-for-3d-view-synthesis.pdf)] [[code](https://github.com/jimeiyang/deepRotator)] [[web](https://github.com/jimeiyang)]
 
-Deep convolutional inverse graphics network.
+Deep convolutional inverse graphics network. [[pdf](http://arxiv.org/pdf/1503.03167.pdf)] [[code](https://github.com/willwhitney/dc-ign)] [[web](https://github.com/willwhitney)]
 
-Spatial transformer networks.
+Spatial transformer networks. [[pdf](https://arxiv.org/abs/1506.02025)] [[code](https://github.com/skaae/transformer_network)] [[web](https://github.com/skaae)]
 
-Reconstructing the world in six days.
+Reconstructing the world in six days. [[pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heinly_Reconstructing_the_World_2015_CVPR_paper.pdf)] [[code](https://github.com/jheinly/streaming_connected_component_discovery)] [[web](https://github.com/jheinly)]
 
-Structure from motion using structureless resection.
+Structure from motion using structureless resection. [[pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Structure_From_Motion_ICCV_2015_paper.pdf)]
 
 #### 2014
 3d object manipulation in a single photograph using stock 3d models. [Geometry-based method]
