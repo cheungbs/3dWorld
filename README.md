@@ -9,13 +9,13 @@ Transformation-Grounded Image Generation Network for Novel 3D View Synthesis. [[
 ### 2016
 Multi-view 3d models from single images with convolutional network. [[pdf](https://arxiv.org/abs/1511.06702)] [[code](https://github.com/mtatarchenko/mv3d)] [[web](http://lmb.informatik.uni-freiburg.de/people/tatarchm/)]
 
-View synthesis by appearance flow.
+View synthesis by appearance flow. [[pdf](https://www.arxiv.org/abs/1605.03557)] [[web](https://github.com/tinghuiz/appearance-flow)]
 
-Unsupervised cnn for single view depth estimation: Geometry to the rescue.
+Unsupervised cnn for single view depth estimation: Geometry to the rescue. [[pdf](https://arxiv.org/abs/1603.04992)] [[code](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation)] [[web](https://github.com/Ravi-Garg)]
 
-Novel views of objects from a single image. [Geometry-based method]
+Novel views of objects from a single image. [[Geometry-based method]] [[pdf](https://arxiv.org/pdf/1602.00328)] [[web](http://homes.cs.washington.edu/~krematas/ViewSynthesis/)]
 
-Deep-stereo: Learning to predict new views from the world's imagery.
+Deep-stereo: Learning to predict new views from the world's imagery. [[pdf](https://arxiv.org/abs/1506.06825)] [[web](https://www.cs.cornell.edu/%7Esnavely/)]
 
 Learning semantic deformation flows with 3d convolutional networks.
 
