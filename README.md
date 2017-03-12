@@ -85,7 +85,7 @@ Light field rendering. [[pdf](https://graphics.stanford.edu/papers/light/light-l
 
 The lumigraph. [[pdf](http://www.cs.utah.edu/classes/cs5610/handouts/lumigraph.pdf)]
 
-View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
+View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[code](https://github.com/eroniki/viewMorphing)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
 
 #### 1995
 Model-based matching of line drawing by linear combination of prototypes. [[pdf](http://dspace.mit.edu/handle/1721.1/7187)]
