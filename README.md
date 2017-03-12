@@ -85,20 +85,20 @@ Light field rendering. [[pdf](https://graphics.stanford.edu/papers/light/light-l
 
 The lumigraph. [[pdf](http://www.cs.utah.edu/classes/cs5610/handouts/lumigraph.pdf)]
 
-View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[code](https://github.com/eroniki/viewMorphing)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
+View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[code](https://github.com/eroniki/viewMorphing)] [[code2](https://github.com/codedhead/viewmorphing)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
 
 #### 1995
 Model-based matching of line drawing by linear combination of prototypes. [[pdf](http://dspace.mit.edu/handle/1721.1/7187)]
 
 A viewpoint dependent stereoscopic display using interpolation of multi-viewpoint images. [[pdf](http://proceedings.spiedigitallibrary.org/data/Conferences/SPIEP/53134/11_1.pdf)]
 
-Algebraic functions for recognition.
+Algebraic functions for recognition. [[paper](http://dspace.mit.edu/handle/1721.1/6619)]
 
 #### 1993
-View interpolation for image synthesis.
+View interpolation for image synthesis. [[pdf](http://www.cs.columbia.edu/~belhumeur/courses/appearance/chen93view.pdf)] 
 
 #### 1992
-Feature-based image metamorphosis
+Feature-based image metamorphosis. [[pdf](http://www.cs.princeton.edu/courses/archive/fall00/cs426/papers/beier92.pdf)]
 
 ### SLAM
 
