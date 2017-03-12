@@ -51,46 +51,46 @@ Reconstructing the world in six days. [[pdf](http://www.cv-foundation.org/openac
 Structure from motion using structureless resection. [[pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Structure_From_Motion_ICCV_2015_paper.pdf)]
 
 #### 2014
-3d object manipulation in a single photograph using stock 3d models. [Geometry-based method]
+3d object manipulation in a single photograph using stock 3d models. [[Geometry-based method]] [[pdf](http://www.cs.cmu.edu/~om3d/papers/SIGGRAPH2014.pdf)] [[web](http://www.cs.cmu.edu/~om3d/)]
 
-Generative adversarial nets.
+Generative adversarial nets. [[pdf](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] [[code](https://github.com/goodfeli/adversarial)] [[web](https://github.com/goodfeli)]
 
-Patchmatch based joint view selection and depthmap estimation.
+Patchmatch based joint view selection and depthmap estimation. [[pdf](http://www.cs.unc.edu/~jmf/publications/ZhengDunnJojicFrahmCVPR2014.pdf)] [[web](http://www.cs.unc.edu/~ezheng/)]
 
 #### 2013
-Toward linear-time incremental structure from motion.
+Toward linear-time incremental structure from motion. [[pdf](http://www.ccwu.me/vsfm/vsfm.pdf)] [[web](http://www.ccwu.me/vsfm/)] 
 
 #### 2011
-Transforming auto-encoders
+Transforming auto-encoders. [[pdf](http://www.cs.toronto.edu/~hinton/absps/transauto6.pdf)] 
 
 #### 2010
 Accurate, dense, and robust multiview stereosis.
 
 #### 2005
-Automatic photo pop-up. [Geometry-based method]
+Automatic photo pop-up. [[Geometry-based method]] [[pdf](http://dhoiem.web.engr.illinois.edu/publications/popup.pdf)] [[web](http://dhoiem.web.engr.illinois.edu/)]
 
 #### 2002
-Single-view modeling of free-form scenes.
+Single-view modeling of free-form scenes. [[pdf](http://grail.cs.washington.edu/projects/svm/jvca2002.pdf)] 
 
 #### 2001
-Image-based modeling and photo-editing.
+Image-based modeling and photo-editing. [[pdf](http://groups.csail.mit.edu/graphics/ibedit/ibedit_s2001_cameraReady.pdf)] [[web](http://groups.csail.mit.edu/graphics/ibedit/)]
 
 #### 1997
-Linear object classes and image synthesis from a single example image.
+Linear object classes and image synthesis from a single example image. [[pdf](http://cbcl.mit.edu/cbcl/publications/ps/vetter-poggio-IEEE-pami-1997.pdf)] 
 
-Tour into the picture: using a spidery mesh interface to make animation from a single image.
+Tour into the picture: using a spidery mesh interface to make animation from a single image. [[pdf](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/Papers/TIP.pdf)]
 
 #### 1996
-Light field rendering.
+Light field rendering. [[pdf](https://graphics.stanford.edu/papers/light/light-lores-corrected.pdf)]
 
-The lumigraph.
+The lumigraph. [[pdf](http://www.cs.utah.edu/classes/cs5610/handouts/lumigraph.pdf)]
 
-View morphing.
+View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
 
 #### 1995
-Model-based matching of line drawing by linear combination of prototypes.
+Model-based matching of line drawing by linear combination of prototypes. [[pdf](http://dspace.mit.edu/handle/1721.1/7187)]
 
-A viewpoint dependent stereoscopic display using interpolation of multi-viewpoint images.
+A viewpoint dependent stereoscopic display using interpolation of multi-viewpoint images. [[pdf](http://proceedings.spiedigitallibrary.org/data/Conferences/SPIEP/53134/11_1.pdf)]
 
 Algebraic functions for recognition.
 
@@ -103,6 +103,12 @@ Feature-based image metamorphosis
 ### SLAM
 
 ### SFM
+
+#### 2016
+Pixelwise View Selection for Unstructured Multi-View Stereo. [[pdf](http://www.cs.unc.edu/~ezheng/resources/mvs_2016/eccv2016.pdf)] [[code](https://github.com/colmap/colmap)] [[web](http://people.inf.ethz.ch/jschoenb/colmap/)]
+
+## blogs
+Adit Deshpande [[blog](https://adeshpande3.github.io/)]
 
 ## courses
 ## codes
