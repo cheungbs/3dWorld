@@ -80,6 +80,9 @@ Single-view modeling of free-form scenes. [[pdf](http://grail.cs.washington.edu/
 #### 2001
 Image-based modeling and photo-editing. [[pdf](http://groups.csail.mit.edu/graphics/ibedit/ibedit_s2001_cameraReady.pdf)] [[web](http://groups.csail.mit.edu/graphics/ibedit/)]
 
+#### 1998
+Image porphing: a survey. [[pdf](http://www-cs.engr.ccny.cuny.edu/~wolberg/pub/vc98.pdf)]
+
 #### 1997
 Linear object classes and image synthesis from a single example image. [[pdf](http://cbcl.mit.edu/cbcl/publications/ps/vetter-poggio-IEEE-pami-1997.pdf)] 
 
@@ -91,6 +94,8 @@ Light field rendering. [[pdf](https://graphics.stanford.edu/papers/light/light-l
 The lumigraph. [[pdf](http://www.cs.utah.edu/classes/cs5610/handouts/lumigraph.pdf)]
 
 View morphing. [[pdf](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/f07/proj_final/www/amichals/view.pdf)] [[code](https://github.com/eroniki/viewMorphing)] [[code2](https://github.com/codedhead/viewmorphing)] [[web](http://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
+
+Toward Image-Based Scene Representation Using View Morphing. [[pdf](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/seitz/www/papers/icpr96.pdf)]
 
 #### 1995
 Model-based matching of line drawing by linear combination of prototypes. [[pdf](http://dspace.mit.edu/handle/1721.1/7187)]
@@ -114,9 +119,13 @@ Pixelwise View Selection for Unstructured Multi-View Stereo. [[pdf](http://www.c
 
 ## blogs
 Adit Deshpande [[blog](https://adeshpande3.github.io/)]
+Image processing classic papers. [[blog](http://www.cnblogs.com/nsnow/p/4546716.html)]
 
 ## thesis
 Image based view synthesis. [[pdf](http://crcv.ucf.edu/papers/theses/xiao_theses.pdf)]
+Real-time view morphing of video streams. [[pdf](https://www.evl.uic.edu/documents/k_timm_disser.pdf)]
 
 ## courses
+Image and view morphing. [[pdf](http://caig.cs.nctu.edu.tw/course/IBMR14/Lecture/IBMR_8Morphing_F14.pdf)]
+
 ## codes
