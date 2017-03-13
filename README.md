@@ -68,6 +68,12 @@ Accurate, dense, and robust multiview stereosis.
 #### 2005
 Automatic photo pop-up. [[Geometry-based method]] [[pdf](http://dhoiem.web.engr.illinois.edu/publications/popup.pdf)] [[web](http://dhoiem.web.engr.illinois.edu/)]
 
+#### 2004
+Tri-view morphing. [[pdf](http://crcv.ucf.edu/papers/tri-view-cviu.pdf)]
+
+#### 2003
+From Images to Video: View Morphing of Three Images. [[pdf](http://vision.eecs.ucf.edu/papers/xiao_vmv2003.pdf)]
+
 #### 2002
 Single-view modeling of free-form scenes. [[pdf](http://grail.cs.washington.edu/projects/svm/jvca2002.pdf)] 
 
@@ -108,6 +114,9 @@ Pixelwise View Selection for Unstructured Multi-View Stereo. [[pdf](http://www.c
 
 ## blogs
 Adit Deshpande [[blog](https://adeshpande3.github.io/)]
+
+## thesis
+Image based view synthesis. [[pdf](http://crcv.ucf.edu/papers/theses/xiao_theses.pdf)]
 
 ## courses
 ## codes
