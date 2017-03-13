@@ -119,10 +119,12 @@ Pixelwise View Selection for Unstructured Multi-View Stereo. [[pdf](http://www.c
 
 ## blogs
 Adit Deshpande [[blog](https://adeshpande3.github.io/)]
+
 Image processing classic papers. [[blog](http://www.cnblogs.com/nsnow/p/4546716.html)]
 
 ## thesis
 Image based view synthesis. [[pdf](http://crcv.ucf.edu/papers/theses/xiao_theses.pdf)]
+
 Real-time view morphing of video streams. [[pdf](https://www.evl.uic.edu/documents/k_timm_disser.pdf)]
 
 ## courses
