@@ -1,6 +1,5 @@
-# 3dWorld
+# View Synthesis
 ## papers
-### View Synthesis
 #### 2017
 Deep View Morphing. [[pdf](https://arxiv.org/abs/1703.02168)]
 
