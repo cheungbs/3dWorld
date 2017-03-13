@@ -65,6 +65,9 @@ Transforming auto-encoders. [[pdf](http://www.cs.toronto.edu/~hinton/absps/trans
 #### 2010
 Accurate, dense, and robust multiview stereosis.
 
+#### 2007
+Synthesis Arbitrary Views from Two Images Based on Improved View Morphing Technique. [[pdf](http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/2007CD/papers/06-03.pdf)]
+
 #### 2005
 Automatic photo pop-up. [[Geometry-based method]] [[pdf](http://dhoiem.web.engr.illinois.edu/publications/popup.pdf)] [[web](http://dhoiem.web.engr.illinois.edu/)]
 
@@ -79,6 +82,9 @@ Single-view modeling of free-form scenes. [[pdf](http://grail.cs.washington.edu/
 
 #### 2001
 Image-based modeling and photo-editing. [[pdf](http://groups.csail.mit.edu/graphics/ibedit/ibedit_s2001_cameraReady.pdf)] [[web](http://groups.csail.mit.edu/graphics/ibedit/)]
+
+#### 1999
+Appearance-Based Virtual View Generation of Temporally-Varying Events from Multi-Camera Images in the 3D Room. [[pdf](https://www.ri.cmu.edu/pub_files/pub2/saito_hideo_1999_1/saito_hideo_1999_1.pdf)]
 
 #### 1998
 Image porphing: a survey. [[pdf](http://www-cs.engr.ccny.cuny.edu/~wolberg/pub/vc98.pdf)]
@@ -131,3 +137,6 @@ Real-time view morphing of video streams. [[pdf](https://www.evl.uic.edu/documen
 Image and view morphing. [[pdf](http://caig.cs.nctu.edu.tw/course/IBMR14/Lecture/IBMR_8Morphing_F14.pdf)]
 
 ## codes
+
+## labs
+Interactive Media Systems, Vienna University of Technology. [[web](https://www.ims.tuwien.ac.at/)]
