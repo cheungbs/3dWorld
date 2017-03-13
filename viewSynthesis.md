@@ -68,6 +68,8 @@ Accurate, dense, and robust multiview stereosis.
 #### 2007
 Synthesis Arbitrary Views from Two Images Based on Improved View Morphing Technique. [[pdf](http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/2007CD/papers/06-03.pdf)]
 
+Efficient Dense Stereo with Occlusions for New View-Synthesis by Four-State Dynamic Programming. [[pdf](http://jamie.shotton.org/work/publications/ijcv07b.pdf)]
+
 #### 2005
 Automatic photo pop-up. [[Geometry-based method]] [[pdf](http://dhoiem.web.engr.illinois.edu/publications/popup.pdf)] [[web](http://dhoiem.web.engr.illinois.edu/)]
 
