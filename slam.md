@@ -7,6 +7,8 @@ Direct Sparse Odometry. [[pdf](https://vision.in.tum.de/_media/spezial/bib/engel
 
 ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. [[pdf](https://128.84.21.199/abs/1610.06475)] [[code](https://github.com/raulmur/ORB_SLAM)] [[code v2](https://github.com/raulmur/ORB_SLAM2)] [[web](http://webdiis.unizar.es/~raulmur/orbslam/)]
 
+CPA-SLAM: Consistent Plane-Model Alignment for Direct RGB-D SLAM. [[pdf](http://vision.in.tum.de/_media/spezial/bib/lingni16icra.pdf)]
+
 #### 2015
 ElasticFusion: Dense SLAM Without A Pose Graph. [[pdf](http://thomaswhelan.ie/Whelan15rss.pdf)] [[code](https://github.com/mp3guy/ElasticFusion)] [[web](https://github.com/mp3guy)]
 
