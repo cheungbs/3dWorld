@@ -12,3 +12,7 @@ Direct, Dense, and Deformable: Template-Based Non-Rigid 3D Reconstruction from R
 
 #### 2014
 Video Pop-up: Monocular 3D Reconstruction of Dynamic Scenes. [[pdf](http://www0.cs.ucl.ac.uk/staff/R.Yu/video_popup/VideoPopup.pdf)] [[code](https://github.com/cvfish/VideoPopup)] [[web](http://www0.cs.ucl.ac.uk/staff/R.Yu/video_popup/VideoPopup2.html)]
+
+## companies
+mimesys   [[web](http://www.mimesysvr.com/index.html)]
+sketchfab [[web](https://sketchfab.com/)]
