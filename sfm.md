@@ -13,6 +13,9 @@ Direct, Dense, and Deformable: Template-Based Non-Rigid 3D Reconstruction from R
 #### 2014
 Video Pop-up: Monocular 3D Reconstruction of Dynamic Scenes. [[pdf](http://www0.cs.ucl.ac.uk/staff/R.Yu/video_popup/VideoPopup.pdf)] [[code](https://github.com/cvfish/VideoPopup)] [[web](http://www0.cs.ucl.ac.uk/staff/R.Yu/video_popup/VideoPopup2.html)]
 
+#### 2010
+3D Reconstruction of a Moving Point from a Series of 2D Projections. [[pdf](http://www.cs.cmu.edu/~hyunsoop/eccv2010/ECCV2010.pdf)] [[code](http://www.cs.cmu.edu/~hyunsoop/eccv2010/Code.zip)] [[web](http://www.cs.cmu.edu/~hyunsoop/trajectory_reconstruction.html)]
+
 ## companies
 mimesys   [[web](http://www.mimesysvr.com/index.html)]
 
