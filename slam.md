@@ -9,6 +9,8 @@ ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. [
 
 CPA-SLAM: Consistent Plane-Model Alignment for Direct RGB-D SLAM. [[pdf](http://vision.in.tum.de/_media/spezial/bib/lingni16icra.pdf)]
 
+Pop-up SLAM: Semantic Monocular Plane SLAM for Low-texture Environments. [[pdf](https://arxiv.org/pdf/1703.07334.pdf)] [[web](http://www.frc.ri.cmu.edu/~syang/corridor_plane_slam.html)]
+
 #### 2015
 ElasticFusion: Dense SLAM Without A Pose Graph. [[pdf](http://thomaswhelan.ie/Whelan15rss.pdf)] [[code](https://github.com/mp3guy/ElasticFusion)] [[web](https://github.com/mp3guy)]
 
